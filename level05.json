@@ -151,7 +151,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"vr_karol.json"
+                 "value":"vr_karol.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
