@@ -115,7 +115,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"levelTop.json#from_lower_level"
+                 "value":"level08.json#from_lower_level"
                 }],
          "type":"tilelayer",
          "visible":true,

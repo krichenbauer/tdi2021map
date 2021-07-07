@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"level07.json#from_upper_level"
+                 "value":"level08.json#from_upper_level"
                 }],
          "type":"tilelayer",
          "visible":true,
